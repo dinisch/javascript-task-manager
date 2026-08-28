@@ -4,7 +4,7 @@ A responsive task manager built with vanilla JavaScript. The project demonstrate
 
 ## Live Demo
 
-After publishing with GitHub Pages, add your live link here.
+🔗 [View Live Demo](https://dinisch.github.io/javascript-task-manager/)
 
 ## Features
 
