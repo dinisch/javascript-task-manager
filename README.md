@@ -51,3 +51,14 @@ This project helped me practice:
 ## Author
 
 Dinis Chorney
+
+## Development
+
+This project was built as part of my web development portfolio to practice JavaScript, DOM manipulation, event handling and localStorage.
+
+### Future Improvements
+
+- Add task due dates
+- Add task priority levels
+- Add dark mode
+- Improve mobile user experience
